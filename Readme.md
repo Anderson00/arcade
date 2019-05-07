@@ -72,7 +72,6 @@
 
 ## 4_vet
 
-- [L1 - Joelison Fernandes - Soma do maior e menor!](base/0060/Readme.md#qxcode)
 - [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](base/0101/Readme.md#qxcode)
 - [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
 - [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
@@ -83,3 +82,11 @@
 
 - [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
 - [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
+
+## 6_str
+
+- [L1 - Eribelton e a Ascologia V1 - Somar Asc](base/0200/Readme.md#qxcode)
+- [L1 - Marileuza e as Alcaparras - Contar Ocorrencias!](base/0204/Readme.md#qxcode)
+- [L1 - Substring na decoração - Obter Substrings!](base/0203/Readme.md#qxcode)
+- [L1 - Valdiskey e a cifra V1!](base/0201/Readme.md#qxcode)
+- [L3 - Separando tokens](base/0202/Readme.md#qxcode)
